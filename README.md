@@ -30,5 +30,4 @@
 <img align="left" src="https://pbs.twimg.com/profile_images/428287509047435264/ElOjna20.png" width="40px" alt="ansible">
 <img align="left" src="https://pbs.twimg.com/profile_images/1273307847103635465/lfVWBmiW_400x400.png" width="40px" alt="docker">
 <img align="left" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/04/css-3-logo.png" width="40px" alt="css"><br><br><br>
-<img  align="left"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVMO4E719cFK4rKPXq6e1YW6GW-AlbInL42cjzLO2XaiJOzLwA3pQqgLaLZdNkJPlQlZs&usqp=CAU" width="40px" alt="jenkins">
-<img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcc-Lykm_jfxQKxfK88KZdaJPyNcn4GinrXVZpjVknxImCjiepLtBPPJ5xp7wzXqG7Evs&usqp=CAU" width="40px" alt="c++"></p>
+<img  align="center"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVMO4E719cFK4rKPXq6e1YW6GW-AlbInL42cjzLO2XaiJOzLwA3pQqgLaLZdNkJPlQlZs&usqp=CAU" width="40px" alt="jenkins">
