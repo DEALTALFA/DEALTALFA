@@ -10,4 +10,4 @@
 - 💬 Ask me about Linux,DevOps,Cloud Computing,Machine Learning.
 
 ### Connect with me:
-
+<p><img align="left" src="https://github.com/DEALTALFA/DEALTALFA/blob/main/src/linkedin.png" width="24px">
