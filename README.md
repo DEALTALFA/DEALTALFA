@@ -1,5 +1,7 @@
-### Hi there 👋
 
+<p align="center"> <img src="https://github.com/DEALTALFA/DEALTALFA/blob/main/src/hi.gif" alt="animated"> </p>
+
+---------------------
 
 - 🔭 I’m currently working on a module for Multi-Cloud Kubernetes using Terraform.
 - 🌱 I’m currently learning Everything 🤣
