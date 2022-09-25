@@ -28,6 +28,6 @@
 <img align="left" src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5352-html5_102567.png" width="40px" alt="html">
 <img align="left" src="https://pbs.twimg.com/profile_images/428287509047435264/ElOjna20.png" width="40px" alt="ansible">
 <img align="left" src="https://developers.redhat.com/sites/default/files/styles/article_feature/public/blog/2014/05/homepage-docker-logo.png?itok=zx0e-vcP" width="45px" alt="docker">
-<img align="left" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/04/css-3-logo.png" width="40px" alt="css"><br><br><br>
+<img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="40px" alt="css"><br><br><br>
 <img  align="left"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVMO4E719cFK4rKPXq6e1YW6GW-AlbInL42cjzLO2XaiJOzLwA3pQqgLaLZdNkJPlQlZs&usqp=CAU" width="40px" alt="jenkins">
 <img  align="left"src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png" width="50px"  alt="Oracle Cloud">
