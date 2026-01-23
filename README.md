@@ -19,14 +19,14 @@
 <img align="left" src="https://sdtimes.com/wp-content/uploads/2019/03/jW4dnFtA_400x400.jpg" width="40px" alt="java">
 
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/1200px-OpenShift-LogoType.svg.png" width="40px">
-<img align="left" src="https://images.ctfassets.net/mrop88jh71hl/55rrbZfwMaURHZKAUc5oOW/9e5fe805eb03135b82e962e92169ce6d/python-programming-language.png" width="40px" alt="python">
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/220px-Kubernetes_logo_without_workmark.svg.png" width="40px" alt="kubernetes">
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/330px-Python-logo-notext.svg.png" width="40px" alt="python">
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/960px-Kubernetes_logo_without_workmark.svg.png" width="40px" alt="kubernetes">
 <img align="left" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102017/logo_0.png?17TK91b1B6OvV2MFrCLfukw1c8oEaNr6&itok=vsanFiUj" width="40px" alt="aws">
 <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs8m1bddIO7AJg-GSoHU3MdOnXy99-X8VuLJQ9FX4hbHTC3K_BkaZqXWY5396xW36_aig&usqp=CAUg" width="40px">
 <img align="left" src="https://cdn.buttercms.com/6IOYf3uRJMGxcpXMTswN" width="40px" alt="mongoDB">
 <img align="left" src="https://miro.medium.com/max/720/1*LjR0UrFB2a__5h1DWqzstA.png" width="40px" alt="js">
 <img align="left" src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5352-html5_102567.png" width="40px" alt="html">
-<img align="left" src="https://pbs.twimg.com/profile_images/428287509047435264/ElOjna20.png" width="40px" alt="ansible">
+<img align="left" src="https://api.contentstack.io/v2/assets/575e4d1c12798d8e381fedb7/download?uid=bltc77b25fbbc9b59e9" width="40px" alt="ansible">
 <img align="left" src="https://developers.redhat.com/sites/default/files/styles/article_feature/public/blog/2014/05/homepage-docker-logo.png?itok=zx0e-vcP" width="45px" alt="docker">
 <img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="40px" alt="css"><br><br><br>
 <img  align="left"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVMO4E719cFK4rKPXq6e1YW6GW-AlbInL42cjzLO2XaiJOzLwA3pQqgLaLZdNkJPlQlZs&usqp=CAU" width="40px" alt="jenkins">
