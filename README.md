@@ -3,10 +3,8 @@
 
 #
 
-- 🔭 I’m currently working on a module for Multi-Cloud Kubernetes using Terraform.
-- 🌱 I’m currently learning Everything 🤣
+- 🔭 I always like to learn new technologies used in the industry.
 - 👯 I’m looking to collaborate on any OpenSource Project.
-- 🤔 I’m looking for help with Jenkins.
 - 💬 Ask me about Linux,DevOps,Cloud Computing,Machine Learning.
 
 ### Connect with me:
