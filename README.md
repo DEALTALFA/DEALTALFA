@@ -6,6 +6,7 @@
 - 🔭 I always like to learn new technologies used in the industry.
 - 👯 I’m looking to collaborate on any OpenSource Project.
 - 💬 Ask me about Linux,DevOps,Cloud Computing,Machine Learning.
+- 🤖 Currently I am learning Python Agentic AI Frameworks
 
 ### Connect with me:
 [<img align="left" src="https://github.com/DEALTALFA/DEALTALFA/blob/main/src/linkedin.png" width="24px">](https://www.linkedin.com/in/deepak-yadav-588685127)
