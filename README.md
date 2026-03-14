@@ -1,32 +1,56 @@
+<h1 align="center">Hi there, I'm Deepak 👋</h1>
 
-<p align="center"> <img src="https://github.com/DEALTALFA/DEALTALFA/blob/main/src/hi.gif" alt="animated"> </p>
+<p align="center">
+  <img src="https://github.com/DEALTALFA/DEALTALFA/blob/main/src/hi.gif" alt="animated" width="300"/>
+</p>
 
-#
+<p align="center">
+  <a href="www.linkedin.com/in/deepakyadav1712">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:alfo7742@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-- 🔭 I always like to learn new technologies used in the industry.
-- 👯 I’m looking to collaborate on any OpenSource Project.
-- 💬 Ask me about Linux,DevOps,Cloud Computing,Machine Learning.
-- 🤖 Currently I am learning Python Agentic AI Frameworks
+---
 
-### Connect with me:
-[<img align="left" src="https://github.com/DEALTALFA/DEALTALFA/blob/main/src/linkedin.png" width="24px">](https://www.linkedin.com/in/deepak-yadav-588685127)
-[<img align="left" src="https://github.com/DEALTALFA/DEALTALFA/blob/main/src/email.png" width="26px">](mailto:alfo7742@gmail.com)<br>
+### 👨‍💻 About Me
 
-### Languages and Tools:
+- 🔭 I always like to learn new technologies used in the industry
+- 👯 Looking to collaborate on any OpenSource Project
+- 💬 Ask me about **Linux · DevOps · Cloud Computing**
+- 🤖 Currently learning **Python Agentic AI Frameworks**
 
-<img align="left" src="https://ih1.redbubble.net/image.300807747.2918/flat,750x,075,f-pad,750x1000,f8f8f8.u2.jpg" width="35px" alt="linux">
-<img align="left" src="https://sdtimes.com/wp-content/uploads/2019/03/jW4dnFtA_400x400.jpg" width="40px" alt="java">
+---
 
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/1200px-OpenShift-LogoType.svg.png" width="40px">
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/330px-Python-logo-notext.svg.png" width="40px" alt="python">
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/960px-Kubernetes_logo_without_workmark.svg.png" width="40px" alt="kubernetes">
-<img align="left" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102017/logo_0.png?17TK91b1B6OvV2MFrCLfukw1c8oEaNr6&itok=vsanFiUj" width="40px" alt="aws">
-<img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs8m1bddIO7AJg-GSoHU3MdOnXy99-X8VuLJQ9FX4hbHTC3K_BkaZqXWY5396xW36_aig&usqp=CAUg" width="40px">
-<img align="left" src="https://cdn.buttercms.com/6IOYf3uRJMGxcpXMTswN" width="40px" alt="mongoDB">
-<img align="left" src="https://miro.medium.com/max/720/1*LjR0UrFB2a__5h1DWqzstA.png" width="40px" alt="js">
-<img align="left" src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5352-html5_102567.png" width="40px" alt="html">
-<img align="left" src="https://api.contentstack.io/v2/assets/575e4d1c12798d8e381fedb7/download?uid=bltc77b25fbbc9b59e9" width="40px" alt="ansible">
-<img align="left" src="https://developers.redhat.com/sites/default/files/styles/article_feature/public/blog/2014/05/homepage-docker-logo.png?itok=zx0e-vcP" width="45px" alt="docker">
-<img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="40px" alt="css"><br><br><br>
-<img  align="left"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVMO4E719cFK4rKPXq6e1YW6GW-AlbInL42cjzLO2XaiJOzLwA3pQqgLaLZdNkJPlQlZs&usqp=CAU" width="40px" alt="jenkins">
-<img  align="left"src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png" width="50px"  alt="Oracle Cloud">
+### 📊 GitHub Stats
+<!-- 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DEALTALFA&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEALTALFA&theme=tokyonight&hide_border=true" width="48%" />
+</p> -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEALTALFA&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,python,bash,docker,terraform,vscode,kubernetes,gitlab,ansible,azure,jenkins,aws,mongodb,debian,redhat,arch,postman,html,css,js,github&perline=8" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+</p>
+
+---
+<!-- 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DEALTALFA&style=flat-square&color=blue" alt="profile views" />
+</p> -->
